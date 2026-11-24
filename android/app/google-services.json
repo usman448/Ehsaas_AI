@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "430388751421",
+    "project_id": "ehsaas-ai",
+    "storage_bucket": "ehsaas-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430388751421:android:cfaf9d80af1b800ff8ce54",
+        "android_client_info": {
+          "package_name": "com.example.ehsaas_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430388751421-05jlhogeuu3r1i8ckei7d6fch207s4si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEYrv6ksgq39pjPLBs81109wc3sXEIIFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430388751421-05jlhogeuu3r1i8ckei7d6fch207s4si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
